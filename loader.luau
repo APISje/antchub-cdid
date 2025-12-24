@@ -7,7 +7,7 @@ local ANTC HUB
     if ok then
         ANTCUI = result
     else 
-        ANTCUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/APISje/antchubv/refs/heads/main/main.lua"))()
+        ANTCUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/APISje/antchub-cdid/refs/heads/main/main.luau"))()
     end
 end
 
